@@ -12,7 +12,8 @@ Project Name: Design and optimization of molecules using the software, Avogadro,
 ## Introduction
 By using Avogadro software, we are building molecular structures, formatting input files, and analyzing output of a wide variety of computational chemistry packages.
 
-- Course Name: ENGINEERING MATERIALS
+### Course information
+- Course Name: Engineering Materials
 - Course Code: 15PH1001
 - Course Credits: 4
 - Academic Year: 2015 - 16
