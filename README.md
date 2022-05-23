@@ -29,8 +29,8 @@ By using Avogadro software, we are building molecular structures, formatting inp
 ## Installation
 ### Get repository
 ```git
-git https://github.com/msaf9/EngineeringMaterials.git
-cd EngineeringMaterials
+git https://github.com/msaf9/DesignAndOptimizationOfMoleculesUsingSoftware.git
+cd DesignAndOptimizationOfMoleculesUsingSoftware
 ```
 
 ## License
