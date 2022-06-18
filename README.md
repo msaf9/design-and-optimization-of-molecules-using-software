@@ -1,9 +1,10 @@
-# Engineering Materials Project
+# Design and optimization of molecules using Avogadro
 
 Project Name: Design and optimization of molecules using the software, Avogadro, and finding bond lengths, bond angles and molecular energies based on MM force field.
 
-- [Engineering Materials Project](#engineering-materials-project)
+- [Design and optimization of molecules using Avogadro](#design-and-optimization-of-molecules-using-avogadro)
   - [Introduction](#introduction)
+    - [Course information](#course-information)
     - [Resources](#resources)
   - [Technologies](#technologies)
   - [Project status](#project-status)
