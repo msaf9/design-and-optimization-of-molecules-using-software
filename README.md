@@ -2,6 +2,8 @@
 
 Project Name: Design and optimization of molecules using the software, Avogadro, and finding bond lengths, bond angles and molecular energies based on MM force field.
 
+<h2>Table of content</h2>
+
 - [Introduction](#introduction)
   - [Course information](#course-information)
   - [Resources](#resources)
